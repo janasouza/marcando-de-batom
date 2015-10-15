@@ -1,4 +1,4 @@
-# ![Marcando de Batom](img/marcando-de-batom.svg)
+# ![Marcando de Batom](https://rawgit.com/afonsopacifer/marcando-de-batom/basic-content/img/marcando-de-batom.svg)
 
 ## Sobre
 
