@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #cc0033;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0 20px;
+  flex-direction: column;
+}
+
+.container img {
+  width: 100%;
+  max-width: 496px;
+}
+
+.txt {
+  color: #fff;
+  margin-top: 10px;
+}
+
+.bar {
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  background-color: #fff;
+  animation-name: example;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #898989;
+}
+
+@keyframes example {
+    0% {max-width: 300px;}
+    50% {max-width: 380px;}
+    75% {max-width: 420px;}
+    100% {max-width: 300px;}
+}

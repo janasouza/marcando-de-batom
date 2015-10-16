@@ -1,0 +1,9 @@
+{
+  "name": "marcando-de-batom",
+  "author": "Janaina Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-gh-pages": "^0.10.0"
+  }
+}

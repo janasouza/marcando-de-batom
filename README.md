@@ -1,10 +1,19 @@
-# ![Marcando de Batom](https://rawgit.com/afonsopacifer/marcando-de-batom/basic-content/img/marcando-de-batom.svg)
+# ![Marcando de Batom](https://rawgit.com/janasouza/marcando-de-batom/master/img/marcando-de-batom.svg)
 
-## Sobre
+## Como publicar a pagina em construção:
 
-## Rodando o Blog localmente:
+1 - Clone
 
-## Adicionando um novo post:
+	git clone https://github.com/janasouza/marcando-de-batom.git
+
+2 - Install all dependencies:
+
+	$ cd marcando-de-batom/
+	$ npm install
+
+3 - Deploy for Github pages:
+
+	$ grunt deploy
 
 ## Licença
 [MIT Licence](https://github.com/janasouza/marcando-de-batom/blob/master/LICENCE.md) © Janaina Souza
