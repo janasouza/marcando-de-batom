@@ -1,0 +1,23 @@
+---
+title: Sobre | Marcando de Batom
+layout: default
+menu: true
+palavras_chave: maquiagem, make up, resenhas de livros, dicas, tutoriais, batom, inspiração, compras
+descricao: Saiba um pouco mais sobre o início do blog Marcando de Batom.
+---
+
+<div class="content" itemscope itemtype="http://schema.org/Person">
+	<h2 class="content-title">Oi! Seja bem-vinda ao Marcando de Batom &lt;3</h2>
+	<p class="content-paragraph">
+		Meu nome é <span itemprop="name">Janaina Souza</span>, tenho 20 anos, sou <span itemprop="jobTitle">User Interface Designer</span> em uma agência de publicidade no Rio.
+	</p>
+	<p class="content-paragraph" itemprop="description">
+		Não sou nenhuma maquiadora profissional, mas amo, sou muito viciada em maquiagem e em tudo que se encontra no mundo feminino. Desde os meus 15 anos eu andava por aí comprando batom que nem louca, porque sempre foi a minha parte preferida. Batom marcado é a minha marca registrada, o que deu origem ao nome do blog. &lt;3
+	</p>
+	<p class="content-paragraph">
+		Muito apegada a esse universo, decidi criar esse blog pra compartilhar dicas, truques e novidades. Nada é difícil, se a gente realmente se interessar. Lembrando que tudo é pra que a gente se sinta melhor, mais bonitas, ficar com a auto estima lá em cima e sair de casa com o amor próprio pregado na testa! rs
+	</p>
+	<p class="content-paragraph">
+		Aqui tem diversos assuntos legais sobre o nosso mundo. Vem comigo! Sugestões são muito bem-vindas, tá?
+	</p>
+</div>

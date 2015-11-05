@@ -1,0 +1,29 @@
+/*
+Flex Grid Framework
+Original repository:
+https://github.com/afonsopacifer/flex-grid-framework
+Website:
+https://afonsopacifer.github.io/flex-grid-framework/
+Author:
+Afonso Pacifer (afonsopacifer.com.br)
+Licence:
+MIT - https://github.com/afonsopacifer/flex-grid-framework/blob/master/licence.md
+* /
+
+/* Configs
+------------------------------------------------*/
+/* Box Model
+------------------------------------------------*/
+* {
+  box-sizing: border-box;
+}
+/* Row
+------------------------------------------------*/
+/* Columns
+------------------------------------------------*/
+/* Offset
+------------------------------------------------*/
+/* Flex Container
+------------------------------------------------*/
+/* Flex Itens
+------------------------------------------------*/

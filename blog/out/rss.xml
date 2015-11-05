@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://127.0.0.1:9778</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 05 Nov 2015 11:01:40 GMT</lastBuildDate>
+        <atom:link href="http://127.0.0.1:9778/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 05 Nov 2015 10:57:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Exemplo de post]]></title>
+            <description><![CDATA[<h1 id="exemplo-de-post">Exemplo de post</h1>
+<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
+<p><img src="../images/exemplo.jpg" alt="exemplo"></p>
+<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
+<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
+<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
+]]></description>
+            <link>http://127.0.0.1:9778/posts/exemplo.html</link>
+            <guid isPermaLink="true">http://127.0.0.1:9778/posts/exemplo.html</guid>
+            <pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,58 @@
+---
+title: Contato | Marcando de Batom
+layout: default
+menu: true
+palavras_chave: maquiagem, make up, resenhas de livros, dicas, tutoriais, batom, inspiração, compras
+descricao: Me deixe saber o que o blog está sendo pra você, sua opinião é muito importante para o desenvolvimento do Marcando de Batom.
+---
+
+<div class="content">
+<h2 class="content-title">Envie sua mensagem</h2>
+	<p class="content-paragraph">
+		Me deixe saber o que o blog está sendo pra você, sua opinião é muito importante para o desenvolvimento do Marcando de Batom.
+	</p>
+	<form class="form" id="form" action="//formspree.io/blogmarcandodebatom@gmail.com"
+      method="POST">
+		<label class="label">Nome:</label>
+	  <input name="name" type='text' placeholder='Seu nome' class="input">
+		<label class="label">E-mail:</label>
+		<input name="email" type='email' placeholder='Seu e-mail' class="input">
+		<label class="label">Mensagem:</label>
+		<textarea type="text" name="message" placeholder='Sua mensagem' class="mensagem"></textarea>
+		<button type='submit' class="btn">Enviar</button>
+	</form>
+
+</div>
+
+<script type="text/javascript">
+	// var contactForm = document.getElementById('form'),
+	//     inputName = contactForm.querySelector('[name="name"]'),
+	//     inputEmail = contactForm.querySelector('[name="email"]'),
+	//     textAreaMessage = contactForm.querySelector('[name="message"]'),
+	//     sendButton = contactForm.querySelector('button');
+	//
+	// sendButton.addEventListener('click', function(event){
+	//   event.preventDefault(); // prevent the form to do the post.
+	//
+	//   sendButton.innerHTML = 'Enviando';
+	//
+	//   var xhr = new XMLHttpRequest();
+	//   xhr.open('POST', '//formspree.io/blogmarcandodebatom@gmail.com', true);
+	//   xhr.setRequestHeader("Accept", "application/json")
+	//   xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded")
+	//
+	//   xhr.send(
+	//     "name=" + inputName.value +
+	//     "&email=" + inputEmail.value +
+	//     "&message=" + textAreaMessage.value);
+	//
+	//   xhr.onloadend = function (res) {
+	//     if (res.target.status === 200){
+	//       contactForm.innerHTML = '<h2>Sua mensagem foi enviada</h2>';
+	//     }
+	//     else {
+	//       contactForm.innerHTML = 'Error!';
+	//     }
+	//   }
+	// });
+</script>
