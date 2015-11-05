@@ -7,11 +7,11 @@ Visite o blog em: [marcandodebatom.com](http://marcandodebatom.com/)
 ## Como funciona:
 Toda a documentação de como utilizar o projeto está no arquivo [DUCUMENTATION.md](DUCUMENTATION.md), incluindo:
 
-- [Introdução](DUCUMENTATION.md#introducao)
-- [Como utilizar o blog localmente](DUCUMENTATION.md#como-utilizar-o-blog-localmente)
-- [Arquivos e pastas](DUCUMENTATION.md#arquivos-e-pastas)
-- [Inserindo um novo post](DUCUMENTATION.md#inserindo-um-novo-post)
-- [Fazendo deploy](DUCUMENTATION.md#fazendo-deploy)
+- [Introdução](DOCUMENTATION.md#introducao)
+- [Como utilizar o blog localmente](DOCUMENTATION.md#como-utilizar-o-blog-localmente)
+- [Arquivos e pastas](DOCUMENTATION.md#arquivos-e-pastas)
+- [Inserindo um novo post](DOCUMENTATION.md#inserindo-um-novo-post)
+- [Fazendo deploy](DOCUMENTATION.md#fazendo-deploy)
 
 **Dica:** Os posts são escritos em markdown, em caso de dúvidas consulte este [guia prático](https://daringfireball.net/projects/markdown/syntax).
 
