@@ -1,19 +1,29 @@
 # ![Marcando de Batom](https://rawgit.com/janasouza/marcando-de-batom/master/img/marcando-de-batom.svg)
 
-## Como publicar a pagina em construção:
+> Aqui entrerá a descrição do blog.
 
-1 - Clone
+Visite o blog em: [marcandodebatom.com](http://marcandodebatom.com/)
 
-	git clone https://github.com/janasouza/marcando-de-batom.git
+## Como funciona:
+Toda a documentação de como utilizar o projeto está no arquivo [DUCUMENTATION.md](DUCUMENTATION.md), incluindo:
 
-2 - Install all dependencies:
+- [Introdução](DUCUMENTATION.md#introducao)
+- [Como utilizar o blog localmente](DUCUMENTATION.md#como-utilizar-o-blog-localmente)
+- [Arquivos e pastas](DUCUMENTATION.md#arquivos-e-pastas)
+- [Inserindo um novo post](DUCUMENTATION.md#inserindo-um-novo-post)
+- [Fazendo deploy](DUCUMENTATION.md#fazendo-deploy)
 
-	$ cd marcando-de-batom/
-	$ npm install
+**Dica:** Os posts são escritos em markdown, em caso de dúvidas consulte este [guia prático](https://daringfireball.net/projects/markdown/syntax).
 
-3 - Deploy for Github pages:
+## Resumo técnico:
+Utilizamos uma stack baseada em [NodeJS](https://nodejs.org/en/) com as seguintes tecnologias:
 
-	$ grunt deploy
+- [Docpad](http://docpad.org/) - Para gerar as páginas estáticas e os Posts.
+- [Eco](https://github.com/docpad/docpad-plugin-eco) - Como template engine de HTML.
+- [Stylus](https://www.npmjs.com/package/docpad-plugin-stylus) - Como pré-processador de CSS.
+- [Flex Grid Framework](http://flexgridframework.com/) - Como sistema de grid baseado em flexbox.
+
+Para deploy utilizamos um [plugin](https://github.com/docpad/docpad-plugin-ghpages) do próprio Docpad para [gh-pages](https://pages.github.com/).
 
 ## Licença
 [MIT Licence](https://github.com/janasouza/marcando-de-batom/blob/master/LICENCE.md) © Janaina Souza

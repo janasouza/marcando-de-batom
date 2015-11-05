@@ -1,0 +1,46 @@
+---
+title: Comprinhas | Marcando de Batom
+layout: default
+palavras_chave: maquiagem, make up, resenhas de livros, dicas, tutoriais, batom, inspiração, compras
+descricao: Se você ama fazer compras, estar por dentro das novidades e testar novos produtos, vai adorar essa categoria no Marcando de Batom.
+---
+
+<section class="posts-list">
+
+	<% for post in @getCollection("posts").findAll({categoria:"comprinhas"}).toJSON(): %>
+
+		<article class="post-item" itemscope itemtype="http://schema.org/Article">
+
+			<div class="post-item-icon">
+				<a href="categoria-<%= post.categoria %>.html">
+					<img src="images/icons/<%= post.categoria %>-icon-mini.svg" itemprop="image" alt="<%= post.categoria %>">
+				</a>
+			</div>
+
+			<div class="post-item-content">
+				<h2 itemprop="headline">
+					<a href="<%= post.url %>" class="post-item-title">
+						<%= post.title %>
+					</a>
+				</h2>
+
+				<span class="post-item-dados">
+					<span itemprop="author">Por: Jana Souza</span> |
+					<span itemprop="datePublished"><%= @moment(post.date).format('DD /MM/ YYYY') %></span> |
+					<span itemprop="articleSection"><%= post.categoria %></span>
+				</span>
+
+				<p class="post-item-descricao" itemprop="description">
+					<%= post.descricao %>
+				</p>
+
+				<a href="<%= post.url %>" class="post-item-link" itemprop="url">
+					Continue lendo
+				</a>
+			</div>
+
+		</article>
+
+	<% end %>
+
+</section>

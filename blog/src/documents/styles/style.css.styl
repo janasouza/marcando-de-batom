@@ -1,0 +1,546 @@
+@charset "UTF-8"
+
+// vendors
+// -----------------------------------------
+@import "vendors/normalize.css.styl"
+@import "vendors/flex-grid-framework.css.styl"
+
+// colors
+// -----------------------------------------
+highlight = #cc0033
+font-color-dafault = #111111
+
+// fonts
+// -----------------------------------------
+@font-face {
+  font-family: 'jenna_sueregular';
+  src: url('../fonts/jennasue-webfont.eot');
+  src: url('../fonts/jennasue-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/jennasue-webfont.woff2') format('woff2'),
+       url('../fonts/jennasue-webfont.woff') format('woff'),
+       url('../fonts/jennasue-webfont.ttf') format('truetype'),
+       url('../fonts/jennasue-webfont.svg#jenna_sueregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// global
+// -----------------------------------------
+body
+	font-family "Roboto", sans-serif
+	background-color #e3e2e2
+	font-weight 300
+
+.row
+	row()
+	align-items flex-start
+
+.flex-order-control
+	display flex
+	flex-direction comlumn
+	flex-wrap wrap
+	justify-content center
+
+// -----------------------------------------
+// template: default
+// -----------------------------------------
+
+// header
+// -----------------------------------------
+.header
+	text-align center
+	background-color highlight
+	background-image url("../images/header-bg.jpg")
+	background-repeat no-repeat
+	background-position center
+	border-top 6px solid highlight
+	padding 0
+	order 1
+	width 100%
+
+@media screen and (max-width 570px)
+	.header
+		text-align center
+		background-color highlight
+		background-image url("../images/header-bg.jpg")
+		background-repeat no-repeat
+		background-position center
+		border-top 6px solid highlight
+		padding 0
+		order 3
+		border-top 0
+
+.header .heading-1
+	color #fff
+	margin 0
+	padding 60px 0 100px 0
+
+@media screen and (max-width 570px)
+	.header .heading-1
+		padding 60px 10px
+
+.header .heading-1 img
+	width 100%
+	max-width 595px
+
+// menu
+// -----------------------------------------
+.btn-open
+	display none
+	order 2
+
+.menu
+	text-align center
+	margin-top -54px
+	order 3
+
+.menu-link
+	text-decoration none
+	text-align center
+	padding 4px 14px
+	font-size 36px
+	width 150px
+	color #fff
+	background highlight
+	display inline-block
+	margin 0 4px
+	font-family 'jenna_sueregular'
+	transition background 0.5s
+
+.menu-link:hover
+	background #db1e4d
+
+.active, .active:hover
+	background-color #e3e2e2
+	color highlight
+
+@media screen and (max-width 570px)
+	.btn-open
+		order 1
+		display block
+		width 100%
+		background-color highlight
+		border 0
+		padding-top 5px
+		box-shadow -1px 4px 5px 0px rgba(0,0,0,0.64)
+		position relative
+		z-index 2
+
+	.menu
+		text-align center
+		margin-top 0
+		top 0
+		width 100%
+		order 2
+
+	.menu-link
+		padding 14px 0
+		display block
+		margin 0
+		width 100%
+		border-bottom 1px solid #fff
+
+// categorias
+// -----------------------------------------
+.btn-open-categorias
+	display none
+
+@media screen and (max-width 570px)
+	.btn-open-categorias
+		display block
+		width 100%
+		background #fff
+		color highlight
+		border 0
+		box-shadow 0px 1px 3px 0px rgba(0, 0, 0, 0.75)
+		font-size 18px
+		padding 15px 0
+		position relative
+		z-index 2
+
+	.btn-open-categorias span
+		color #a5a5a5
+
+.categorias-list
+	text-align center
+	width 100%
+
+.categoria
+	display inline-block
+	text-align center
+	margin 30px 0
+	width 160px
+	text-decoration none
+	transition transform .3s
+
+.categoria:hover
+	transform translateY(-20px)
+
+.active-cat
+	opacity .5
+
+// 	animation up 1s infinite ease-in-out
+
+// @keyframes up {
+//     0%   {transform: translateY(-10px);}
+//     25%  {transform: translateY(-20px);}
+//     50%  {transform: translateY(-10px);}
+//     75%  {transform: translateY(-20px);}
+//     100% {transform: translateY(-10px);}
+// }
+
+@media screen and (max-width 850px)
+	.categoria
+		margin 10px 0
+		width 100px
+
+@media screen and (max-width 570px)
+	.categoria
+		margin 0
+		width 100%
+		text-align left
+		background-color #fff
+		border-bottom 1px solid highlight
+		padding 10px 30px
+		display flex
+		align-items center
+		transition opacity .3s
+
+	.categoria:hover
+		transform translateY(0)
+		opacity .8
+
+	.categoria img
+		width 30px
+		margin-right 10px
+
+.categoria span
+	display block
+	text-align center
+	color font-color-dafault
+
+@media screen and (max-width 570px)
+	.categoria span
+		display inline
+		text-align left
+
+// sidebar
+// -----------------------------------------
+.sidebar
+  col(3)
+
+@media screen and (max-width 850px)
+	.sidebar
+		display none
+
+.sidebar-container
+	border 1px solid highlight
+	padding 15px
+	margin-top 20px
+	margin-bottom 20px
+
+.sidebar figure
+	margin 0
+	display block
+	text-align center
+
+.sidebar figure img
+	width 100%
+	margin-bottom 20px
+	max-width 240px
+
+
+.sidebar-title
+	display block
+	text-align center
+	color highlight
+	font-family 'jenna_sueregular'
+	font-size 48px
+
+.hyphenate
+	text-align center
+	-webkit-hyphens auto
+	-moz-hyphens auto
+	-ms-hyphens auto
+	hyphens auto
+
+.social-icons
+	text-align center
+	margin-top 15px
+
+.social-icons a
+	padding 5px
+	text-decoration none
+	opacity .8
+	transition opacity .3s
+
+.social-icons a:hover
+	opacity 1
+
+// footer
+// -----------------------------------------
+.footer
+	padding 10px 0
+	background highlight
+	text-align center
+
+.credits
+	color #fff
+	font-size 14px
+	font-weight 300
+
+.credits a
+	color #fff
+	text-decoration none
+	-webkit-transition opacity .3s
+	transition opacity .3s
+
+.credits a:hover
+	opacity .7
+
+// -----------------------------------------
+// Post list
+// -----------------------------------------
+
+// post list
+// -----------------------------------------
+.posts-list
+	col(9)
+	// border 1px solid green
+	margin-top 20px
+	margin-bottom 20px
+
+@media screen and (max-width 850px)
+	.posts-list
+		col(12)
+
+// post item
+// -----------------------------------------
+.post-item
+	background-image linear-gradient(to bottom, #d2d2d2 91%, #e3e2e2 50%);
+	padding 10px
+	display flex
+	margin-left 30px
+	margin-right 10px
+	margin-bottom 20px
+	padding-bottom 20px
+	border-bottom 1px solid highlight
+
+@media screen and (max-width 850px)
+	.post-item
+		flex-direction column
+		margin-left 10px
+		margin-top 30px
+		flex-wrap wrap
+		margin-bottom 50px
+
+// .post-item div
+// 	border 1px solid #000
+
+// post item icon
+.post-item-icon
+	display flex
+	align-items center
+
+.post-item-icon img
+	margin-left -29px
+	opacity .8
+	transform scale(1.5)
+	transition opacity .3s
+
+.post-item-icon img:hover
+	opacity 1
+
+@media screen and (max-width 850px)
+	.post-item-icon
+		align-items flex-start
+		justify-content center
+		width 100%
+		margin-bottom 10px
+
+	.post-item-icon img
+		margin-left 0px
+		margin-top -29px
+
+// post item content
+.post-item-content
+	padding-left 60px
+	width 100%
+
+@media screen and (max-width 850px)
+	.post-item-content
+		padding-left 0
+
+.post-item-title
+	color highlight
+	font-size 28px
+	font-weight 400
+	margin 0 0 10px 0
+	text-decoration none
+	opacity .8
+	transition opacity .3s
+
+.post-item-title:hover
+	opacity 1
+
+.post-item-dados
+	color #898989
+
+.post-item-descricao
+	margin 10px 0
+
+.post-item-link
+	color highlight
+	font-family 'jenna_sueregular'
+	font-size 30px
+	text-decoration none
+	display inline-block
+	opacity .8
+	transition border-bottom .3s, opacity .3s
+	border-bottom 1px solid transparent
+	float right
+	margin-right 10px
+
+.post-item-link:hover
+	border-color highlight
+	opacity 1
+
+// -----------------------------------------
+// post page
+// -----------------------------------------
+.post-page
+	col(9)
+	margin-top 20px
+	margin-bottom 20px
+	background #d2d2d2
+	padding 20px
+
+@media screen and (max-width 850px)
+	.post-page
+		col(12)
+
+//post topo
+.post-topo
+	border-bottom 1px solid highlight
+	padding-bottom 15px
+	color #898989
+	display inline-block
+	width 100%
+
+.post-topo-left
+	float left
+
+.post-topo-right
+	float right
+
+//post bottom
+.post-bottom-title
+	display block
+	text-align center
+	color highlight
+	font-family 'jenna_sueregular'
+	font-size 48px
+	border-bottom 1px solid highlight
+	padding-bottom 15px
+
+.post-bottom-paragraph
+	text-align center
+
+.social-share
+	text-align center
+	margin-top 20px
+
+.social-share-link
+	text-decoration none
+
+.social-share-icon
+	padding 6px
+	opacity .8
+	transition opacity .3s
+
+
+.social-share-icon:hover
+	opacity 1
+
+.social-title
+	display block
+
+// Estilo para o conteudo gerado do markdown
+// -----------------------------------------
+.post-page-content img
+	width 100%
+
+.post-page-content h1
+	font-size 30px
+	color highlight
+	text-align center
+
+.post-page-content p
+	text-align justify
+	margin 15px 0
+
+// -----------------------------------------
+// content
+// -----------------------------------------
+.content
+	col(9)
+	background #d2d2d2
+	margin-top 20px
+	margin-bottom 20px
+	padding 20px
+
+@media screen and (max-width 850px)
+	.content
+		col(12)
+
+.content-title
+	font-size 30px
+	color highlight
+	text-align center
+
+.content-paragraph
+	text-align justify
+	margin 15px 0
+
+// -----------------------------------------
+// form
+// -----------------------------------------
+.label
+	margin-top 10px
+	display inline-block
+
+.input
+	border 1px solid highlight
+	width 100%
+	height 40px
+	margin 5px 0
+	padding 10px
+
+.mensagem
+	border 1px solid highlight
+	width 100%
+	height 140px
+	margin 5px 0
+	padding 10px
+	resize vertical
+
+.btn
+	border 0
+	background highlight
+	color #fff
+	padding 12px 18px
+	font-size 16px
+	opacity .8
+	transition opacity .3s
+	float right
+
+.btn:hover
+	opacity 1
+
+// -----------------------------------------
+// voltar ao topo
+// -----------------------------------------
+.voltar-ao-topo
+	position fixed
+	bottom 40px
+	right 10px
