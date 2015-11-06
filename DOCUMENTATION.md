@@ -34,7 +34,7 @@ $ cd marcando-de-batom/blog
 $ npm install
 ```
 
-**4 - Inicie o projeto com o comando abaixo e veja em  http://0.0.0.0:9778/**
+**4 - Inicie o projeto com o comando abaixo e veja em  http://127.0.0.1:9778/**
 ```sh
 $ docpad run
 ```
