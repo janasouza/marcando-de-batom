@@ -32,6 +32,7 @@ $ cd marcando-de-batom/blog
 **3 - Instale todas as dependências do proejto**
 ```sh
 $ npm install
+$ npm install -g docpad
 ```
 
 **4 - Inicie o projeto com o comando abaixo e veja em  http://127.0.0.1:9778/**
