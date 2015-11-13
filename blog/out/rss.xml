@@ -4,20 +4,66 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://127.0.0.1:9778</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 11:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 19:16:37 GMT</lastBuildDate>
         <atom:link href="http://127.0.0.1:9778/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2015 10:57:23 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2015 19:16:30 GMT</pubDate>
         <item>
-            <title><![CDATA[Exemplo de post]]></title>
-            <description><![CDATA[<h1 id="exemplo-de-post">Exemplo de post</h1>
-<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
-<p><img src="../images/exemplo.jpg" alt="exemplo"></p>
-<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
-<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
-<p>Aenean purus felis, lobortis ut nisl maximus, placerat euismod nisl. In est orci, dapibus non ante suscipit, accumsan maximus elit. Fusce rutrum urna ipsum, in ultrices diam rhoncus sit amet. In laoreet tortor nec luctus volutpat. Maecenas fermentum et enim non sollicitudin. Donec lacinia ligula dolor, sed tempus ligula pretium nec. Sed ac mi cursus dolor tempus faucibus.</p>
+            <title><![CDATA[Cuidados diários e simples com a pele]]></title>
+            <description><![CDATA[<h1 id="cuidados-di-rios-e-simples-com-a-pele">Cuidados diários e simples com a pele</h1>
+<p>Oi meninas! Tudo bem?
+Não preciso nem dizer o quanto eu gosto de maquiagem por que já deu pra perceber, né? rs É raridade eu sair de casa de cara limpa, e com todo esse tempo usando maquiagem todos os dias e praticamente o dia inteiro, reparei em alguns cuidados que fazem <strong>muita</strong> diferença no aspecto e saúde da minha pele. Coisas simples e práticas que não vão ocupar seu tempo no dia a dia.</p>
+<p><strong>Não usar muitos produtos para a mesma função</strong><br>
+Se você é como eu era, de usar mais de um creme para hidratar a pele, fazer uma esfoliação ou qualquer outra função ao mesmo tempo, pare! Esses produtos tem um determinado tempo para fazer efeito, em média 2 meses pra começar a mostrar os resultados. Além de ser mais econômico, você terá certeza se o produto funciona ou não para você, e caso tenha alguma reação alérgica ou algo do tipo, você também saberá qual produto a causou.</p>
+<p><strong>Retirar a maquiagem corretamente</strong><br>
+Retirar a maquiagem é muito importante. Antes eu tinha o péssimo hábito de não retirar antes de dormir, por estar muito cansada ou até mesmo por preguiça. Lavava o rosto no dia seguinte e ainda tacava mais maquiagem pra sair de casa. Minha pele sempre tinha aqueles manchinhas avermelhadas e aparecia uma espinha nova quase todos os dias, e o que eu fazia pra solucionar isso? Colocava uma camada bem grossa de base e pra mim estava tudo certo. Até fazer umas pesquisas e uma consulta no dermatologista e aprender que retirar a maquiagem direito no fim do dia é fundamental.
+Hoje eu já tenho uma rotina básica: Assim que chego em casa, retiro o &quot;grosso&quot; com um lencinho demaquilante. No banho, lavo o rosto duas vezes com um sabonete facial e antes de dormir passo leite de rosas em um pedacinho de algodão no rosto inteiro.
+A diferença que isso fez deu pra notar em questão de dias, a minha pele ficou mais lisinha, a manchinhas diminuiram e quase não aparece mais espinhas.</p>
+<p><strong>Lavar o rosto duas vezes ao dia</strong><br>
+Como a minha pele é um pouquinho oleosa, eu achava que devia lavar o rosto muitas vezes pra me livrar da oleosidade e o que acontece é exatamente o contrário. Isso faz a pele produzir mais sebos e ficar ainda mais oleosa. Duas vezes é o recomendável sendo de manhã e a noite. Isso vale para todos os tipos de pele, tá?</p>
+<p><strong>Usar um hidratante antes da make</strong><br>
+Outra coisa que notei que me fez um bem enorme e acredito que poucas pessoas saibam ou se lembrem é passar um hidratante antes da maquiagem. É como se fosse uma camada de proteção ou uma &quot;barreira&quot; na sua pele, evitando que seja agredida pela maquiagem. A maquiagem, por sua vez, vai ficar muito mais bonita e durar mais.</p>
+<p>Esses cuidados são só alguns de muitos outros importantes, que eu quis compartilhar porque comecei a praticar a pouco tempo e fiquei chocada com o resultado da noite pro dia.</p>
+<p>Não tenho nenhuma foto de antes e depois, mas vou deixar uma foto minha aqui de #caralimpa rs</p>
+<p>Vou listar alguns produtos que tem me ajudado nessa rotina:</p>
 ]]></description>
-            <link>http://127.0.0.1:9778/posts/exemplo.html</link>
-            <guid isPermaLink="true">http://127.0.0.1:9778/posts/exemplo.html</guid>
+            <link>http://127.0.0.1:9778/posts/cuidados-diarios-e-simples-com-a-pele.html</link>
+            <guid isPermaLink="true">http://127.0.0.1:9778/posts/cuidados-diarios-e-simples-com-a-pele.html</guid>
+            <pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valorizando o seu olhar]]></title>
+            <description><![CDATA[<h1 id="valorizando-o-seu-olhar">Valorizando o seu olhar</h1>
+<p>Oi meninas! Tudo Bem?<br>
+Hoje eu vim trazer umas dicas valiosas pra valorizar o olhar e tirar aquela carinha de cansada.
+Sabe aquele dia que a gente acorda com mais sono do que quando foi dormir? Ou andou passando algumas noites estudando, focando no trabalho, ou simplesmente no whatsapp conversando com o boy, e a sua olheira tá gritando?<br>
+Essas 5 dicas vão valorizar o seu olhar, tirar a carinha de cansada, e te deixar pronta pra sair de casa em poucos minutinhos. Em cada uma coloquei uma referência pra gente se inspirar. Vem! &lt;3</p>
+<p><strong>Sombra iluminadora no cantinho interno do olho</strong><br>
+Se tem uma coisa que dá aquele toque mágico no olhar é a sombrinha iluminadora no cantinho do olho. Eu acho lindo e tenho usado e abusado desse truque. Realça o olhar, e disfarça muito o olho inchado de manhã. <br>
+Eu to meio que viciada na série Gossip Girl, quem aí também ama? A personagem da Blake Lively, Serena Van Der Woodsen, foi a minha inspiração pra trazer essa dica neste post. O cantinho do olho iluminado é uma marca registrada dela:</p>
+<p><img src="../images/valorizando-seu-olhar/Blake.jpg" alt="Blake Lively"></p>
+<p><strong>Lápis bege na linha d&#39;água</strong><br>
+O meu olho é super pequeno e o lápis bege na linha d&#39;água é a minha salvação. Dá a impressão que os olhos são maiores, fica muito natural e nem dá pra perceber que você tá usando lápis, dá aquela aparência de olhos descansados. <br>
+Tem o branco também, mas não fica tão natural. Eu gosto de usar quando quero dar destaque na maquiagem e mais na área dos olhos. <br>
+A referência dessa dica é a linda da Dakota Johnson, atriz de Cinquenta Tons de Cinza, ela aposta muito em makes mais naturais e o lápis bege tá sempre presente:</p>
+<p><img src="../images/valorizando-seu-olhar/Dakota.jpg" alt="Dakota Johnson"></p>
+<p><strong>Sombra marrom esfumada no côncavo</strong><br>
+Para as meninas que têm a pálpebra do olho gordinha, têm os olhos pequenos ou inchados, uma sombrinha marrom esfumada no côncavo ajuda dando uma profundidade no olhar, o esfumado dá um toque natural, e deixa a maquiagem linda. Isso vai pedir um pouquinho de treino pro esfumado ficar legal, mas vale a pena. <br>
+E adivinhem quem aposta muito nessa dica? Rihanna! Ela tá sempre com um esfumadinho marrom nos olhos:</p>
+<p><img src="../images/valorizando-seu-olhar/Rihanna.jpg" alt="Rihanna"></p>
+<p><strong>Caprichar na máscara de cílios</strong><br>
+1, 2, 3, 10 camadas, pode se jogar! Os cílios longos e definidos dāo todo o destaque necessário para valorizar o olhar, evidenciando mais a área dos olhos e tirando a atenção de qualquer defeitinho que esteja incomodando.
+Não sou muito fã de cílios postiços, mas como sei que muitas meninas adoram, também vale apostar nos modelinhos mais naturais.<br>
+A inspiração dessa dica é a linda da Kéfera, acho que todo mundo conhece, né? Eu acompanho ela desde o início e ela sempre chamou a atenção para os cílios bem naquele efeito &quot;boneca&quot; que todo mundo ama:</p>
+<p><img src="../images/valorizando-seu-olhar/Kefera.jpg" alt="Kéfera"></p>
+<p><strong>Iluminar a região abaixo dos olhos</strong><br>
+Se você não dormiu bem, as olheiras são as primeiras a te denunciar. Corrigir corretamente é muito importante, por isso use um corretivo na cor de sua pele e para iluminar use um corretivo um tom acima da sua cor. O efeito de iluminação vai te deixar como se tivesse acordado assim. rs<br>
+E como todo mundo tem falado dela, e suas técnicas de contorno e iluminação tem dado o que falar, porque não colocar como inspiração aqui? Kim Kardashian:</p>
+<p><img src="../images/valorizando-seu-olhar/Kim.jpg" alt="Kim Kardashian"></p>
+<p>Reunindo todos essas dicas, tenho certeza que vão conseguir disfarçar o cansaço e se sentirem melhor para começar o dia. Eu praticamente acordo assim:</p>
+<p>E vocês? Tem algum truque que usam no dia a dia pra valorizar o olhar? Não deixem de me contar aqui nos comentários. Até a próxima!</p>
+]]></description>
+            <link>http://127.0.0.1:9778/posts/valorizando-o-seu-olhar.html</link>
+            <guid isPermaLink="true">http://127.0.0.1:9778/posts/valorizando-o-seu-olhar.html</guid>
             <pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
         </item>
     </channel>
