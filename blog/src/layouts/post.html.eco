@@ -30,7 +30,7 @@
   <link rel="canonical" href="http://marcandodebatom.com<%= @document.url %>">
 
   <!-- Fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Roboto:500,300,400' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700' rel='stylesheet' type='text/css'>
 
   <!-- Styles -->
   <%- @getBlock("styles").add(["/styles/style.css"]).toHTML() %>
@@ -75,10 +75,10 @@
       <img src="../images/icons/maquiagem-icon.svg" alt="maquiagem">
       <span>Maquiagem</span>
     </a>
-    <a class="categoria" href="../cabelo.html" id="cabelo">
+    <!-- <a class="categoria" href="../cabelo.html" id="cabelo">
       <img src="../images/icons/cabelo-icon.svg" alt="cabelo">
       <span>Cabelo</span>
-    </a>
+    </a> -->
     <a class="categoria" href="../dia a dia.html" id="dia a dia">
       <img src="../images/icons/dia-a-dia-icon.svg" alt="dia a dia">
       <span>Dia a dia</span>

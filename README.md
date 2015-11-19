@@ -1,7 +1,5 @@
 # ![Marcando de Batom](https://rawgit.com/janasouza/marcando-de-batom/master/img/marcando-de-batom.svg)
 
-> Aqui entrerá a descrição do blog.
-
 Visite o blog em: [marcandodebatom.com](http://marcandodebatom.com/)
 
 ## Como funciona:
