@@ -1,14 +1,14 @@
 ---
 layout: post
 post: true
-title: Valorizando o seu olhar
+title: Valorizando o seu olhar em 4 passos
 palavras_chave: exemplo, exemplo
 descricao: Oi meninas! Tudo Bem? Hoje eu vim trazer umas dicas valiosas pra valorizar o olhar e tirar aquela carinha de cansada. Sabe aquele dia que a gente acorda com mais sono do que quando foi dormir? Ou andou passando algumas noites estudando, focando no trabalho, ou simplesmente no whatsapp conversando com o boy, e a sua olheira tá gritando?...
 categoria: maquiagem
 date: 2015-11-05
 ---
 
-# Valorizando o seu olhar
+# Valorizando o seu olhar em 4 passos
 
 Oi meninas! Tudo Bem?<br>
 Hoje eu vim trazer umas dicas valiosas pra valorizar o olhar e tirar aquela carinha de cansada.
@@ -49,4 +49,4 @@ E como todo mundo tem falado dela, e suas técnicas de contorno e iluminação t
 
 Reunindo todos essas dicas, tenho certeza que vão conseguir disfarçar o cansaço e se sentirem melhor para começar o dia. Eu praticamente acordo assim:
 
-E vocês? Tem algum truque que usam no dia a dia pra valorizar o olhar? Não deixem de me contar aqui nos comentários. Até a próxima!
+E vocês? Tem algum truque que usam no dia a dia pra pra dar aquela valorizada? Não deixem de me contar aqui nos comentários.

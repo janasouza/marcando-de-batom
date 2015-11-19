@@ -31,5 +31,7 @@ Esses cuidados são só alguns de muitos outros importantes, que eu quis compart
 
 Não tenho nenhuma foto de antes e depois, mas vou deixar uma foto minha aqui de #caralimpa rs
 
+![Jana Souza sem maquiagem](../images/cuidados-diarios-e-simples-com-a-pele/cara-limpa.jpg)
+
 
 Vou listar alguns produtos que tem me ajudado nessa rotina:
