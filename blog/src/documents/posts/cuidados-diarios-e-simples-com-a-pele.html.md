@@ -5,7 +5,7 @@ title: Cuidados diários e simples com a pele
 palavras_chave: cuidados, pele, dicas, diarios, noturnos
 descricao: Oi meninas! Tudo bem? Não preciso nem dizer o quanto eu gosto de maquiagem por que já deu pra perceber, né? rs É raridade eu sair de casa de cara limpa, e com todo esse tempo usando maquiagem todos os dias e praticamente o dia inteiro, reparei em alguns cuidados que fazem muita diferença no aspecto e saúde da minha pele. Coisas simples e práticas que não vão ocupar seu tempo no dia a dia...
 categoria: dia a dia
-date: 2015-11-05
+date: 2015-11-07
 ---
 
 # Cuidados diários e simples com a pele
