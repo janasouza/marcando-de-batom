@@ -155,10 +155,10 @@
         </div>
       </div>
 
-      <div class="sidebar-container">
+      <!-- <div class="sidebar-container">
         <div class="sidebar-title">Facebook</div>
         <div class="fb-page" data-href="https://www.facebook.com/marcandodebatom" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/marcandodebatom"><a href="https://www.facebook.com/marcandodebatom">Marcando de Batom</a></blockquote></div></div>
-      </div>
+      </div> -->
 
       <div class="sidebar-container" style="padding-left:12px; padding-right:12px;">
         <div class="sidebar-title">Instagram</div>
