@@ -35,3 +35,16 @@ Não tenho nenhuma foto de antes e depois, mas vou deixar uma foto minha aqui de
 
 
 Vou listar alguns produtos que tem me ajudado nessa rotina:
+
+Linha Pure Zone da L'oreal: Gel esfoliante (que uso uma vez por semana), Tônico adstringente (uso após o banho) e Gel creme (meu último passo na limpeza da pela diária e uso também antes da make). Esse produtos são de preferência para peles oleosas. Desde que comecei a usar minha pele melhorou muito.
+
+![Linha Pure Zone d L'oreal](../images/cuidados-diarios-e-simples-com-a-pele/linha-pure-zone.png)
+
+Lenços demaquilantes Nivea: Eu uso todos os dias assim que chego em casa, para retirar o grosso da maquiagem. Ele  é macio, é molhadinho e sequinho ao mesmo tempo, sei nem como explicar. Ele remove muito bem a maquiagem.
+
+![Lenços demaquiantes Nivea](../images/cuidados-diarios-e-simples-com-a-pele/lenco-demaquilante-nivea.png)
+
+Durante o banho eu também uso o sabonete asepxia para pele oleosa, e o mousse de limpeza da Nivea, sinto que a minha pele fica limpíssima e macia.
+
+E essas foram as minhas dicas básicas para os cuidados com a pele diariamente.
+Se você tem alguma dica que também é ótima, não deixe de compartilhar comigo deixando o seu comentário aqui em baixo, tá?
