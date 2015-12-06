@@ -158,5 +158,6 @@ Conteúdo (cabeçalho + conteúdo):
 
 ```sh
 $ cd marcando-de-batom/blog
-$ docpad deploy
+$ npm install
+$ grunt deploy
 ```
