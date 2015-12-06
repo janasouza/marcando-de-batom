@@ -25,4 +25,4 @@ No passado, tudo começa no mundo em que a gente conhece, aonde Malorie desconfi
 
 No presente, Malorie está com seus dois filhos em uma casa, onde ela não vê o mundo há 4 anos. Ela quer fugir, ir embora, mas para onde? Como sair por ai sem poder enxergar o que há lá fora? Como iria conseguir proteger a si mesmo e seus filhos, com uma venda nos olhos? Ela vai ter que ser corajosa, e quando o momento chegar, ela vai ter que abrir os olhos.
 
-Essa é a história de Caixa de Pássaros, arrepiante e muito claustrofóbica, que me rendeu algumas noites de pesadelo (*sério*). É um livro que você não consegue parar de ler, é viciante, é agoniante. Se você como eu, nunca leu um livro nesse estilo, vai querer começar por esse.
+Essa é a história de Caixa de Pássaros, arrepiante e muito claustrofóbica, que me rendeu algumas noites de pesadelo *(sério)*. É um livro que você não consegue parar de ler, é viciante, é agoniante. Se você como eu, nunca leu um livro nesse estilo, vai querer começar por esse.

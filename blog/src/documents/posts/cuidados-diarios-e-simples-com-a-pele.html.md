@@ -29,11 +29,6 @@ Outra coisa que notei que me fez um bem enorme e acredito que poucas pessoas sai
 
 Esses cuidados são só alguns de muitos outros importantes, que eu quis compartilhar porque comecei a praticar a pouco tempo e fiquei chocada com o resultado da noite pro dia.
 
-Não tenho nenhuma foto de antes e depois, mas vou deixar uma foto minha aqui de #caralimpa rs
-
-![Jana Souza sem maquiagem](../images/cuidados-diarios-e-simples-com-a-pele/cara-limpa.jpg)
-
-
 Vou listar alguns produtos que tem me ajudado nessa rotina:
 
 Linha Pure Zone da L'oreal: Gel esfoliante (que uso uma vez por semana), Tônico adstringente (uso após o banho) e Gel creme (meu último passo na limpeza da pela diária e uso também antes da make). Esse produtos são de preferência para peles oleosas. Desde que comecei a usar minha pele melhorou muito.
