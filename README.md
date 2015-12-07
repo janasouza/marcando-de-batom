@@ -3,7 +3,7 @@
 Visite o blog em: [marcandodebatom.com](http://marcandodebatom.com/)
 
 ## Como funciona:
-Toda a documentação de como utilizar o projeto está no arquivo [DUCUMENTATION.md](DUCUMENTATION.md), incluindo:
+Toda a documentação de como utilizar o projeto está no arquivo [DOCUMENTATION.md](DOCUMENTATION.md), incluindo:
 
 - [Introdução](DOCUMENTATION.md#introducao)
 - [Como utilizar o blog localmente](DOCUMENTATION.md#como-utilizar-o-blog-localmente)
