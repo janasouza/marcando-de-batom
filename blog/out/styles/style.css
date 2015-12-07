@@ -485,6 +485,9 @@ body {
     margin-top: 30px;
     flex-wrap: wrap;
     margin-bottom: 50px;
+    padding-bottom: 10px;
+    background: #d2d2d2;
+    border-bottom: 0px solid #c03;
   }
 }
 .post-item-icon {
@@ -613,6 +616,9 @@ body {
 }
 .social-title {
   display: block;
+}
+.articleCat {
+  text-transform: capitalize;
 }
 .post-page-content img {
   width: 100%;

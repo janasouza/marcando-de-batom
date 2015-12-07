@@ -12,7 +12,7 @@ descricao: Um blog pra você se inspirar: Maquiagem para iniciantes, tutoriais, 
 		<article class="post-item" itemscope itemtype="http://schema.org/Article">
 
 			<div class="post-item-icon">
-				<a href="categoria-<%= post.categoria %>.html">
+				<a href="<%= post.categoria %>.html">
 					<img src="images/icons/<%= post.categoria %>-icon-mini.svg" itemprop="image" alt="<%= post.categoria %>">
 				</a>
 			</div>
@@ -27,7 +27,7 @@ descricao: Um blog pra você se inspirar: Maquiagem para iniciantes, tutoriais, 
 				<span class="post-item-dados">
 					<span itemprop="author">Por: Jana Souza</span> |
 					<span itemprop="datePublished"><%= @moment(post.date).format('DD /MM/ YYYY') %></span> |
-					<span itemprop="articleSection"><%= post.categoria %></span>
+					<span itemprop="articleSection" class="articleCat"><%= post.categoria %></span>
 				</span>
 
 				<p class="post-item-descricao" itemprop="description">
@@ -37,6 +37,7 @@ descricao: Um blog pra você se inspirar: Maquiagem para iniciantes, tutoriais, 
 				<a href="<%= post.url %>" class="post-item-link" itemprop="url">
 					Continue lendo
 				</a>
+
 			</div>
 
 		</article>
