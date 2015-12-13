@@ -5,7 +5,7 @@ title: Valorizando o seu olhar em 5 passos
 palavras_chave: exemplo, exemplo
 descricao: Oi meninas! Tudo Bem? Hoje eu vim trazer umas dicas valiosas pra valorizar o olhar e tirar aquela carinha de cansada. Sabe aquele dia que a gente acorda com mais sono do que quando foi dormir? Ou andou passando algumas noites estudando, focando no trabalho, ou simplesmente no whatsapp conversando com o boy, e a sua olheira tá gritando?...
 categoria: maquiagem
-date: 2015-11-05
+date: 2015-12-13
 ---
 
 # Valorizando o seu olhar em 5 passos
