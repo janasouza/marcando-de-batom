@@ -3,14 +3,14 @@ layout: post
 post: true
 title: Comprinhas: 2 batons lindíssimos da Yes Cosmetics
 palavras_chave: comprinhas, batons matte, yes cosmetics, nude, marrom, chocolate, café
-descricao: Oi meninas, tudo bem? Hoje eu vim mostrar dois batons lindos que eu vi quando estava passando pelo quiosque da Yes Cosmetics no shopping e me dei apaixonei: Marrom Café e Chocolate <3
+descricao: Oi meninas, tudo bem? Hoje eu vim mostrar dois batons lindos que eu vi quando estava passando pelo quiosque da Yes Cosmetics no shopping e me apaixonei: Marrom Café e Chocolate <3
 categoria: comprinhas
 date: 2015-12-17
 ---
 
 # Comprinhas: 2 batons lindíssimos da Yes Cosmetics
 
-Oi meninas, tudo bem? Hoje eu vim mostrar dois batons lindos que eu vi quando estava passando pelo quiosque da Yes Cosmetics no shopping e me dei apaixonei:
+Oi meninas, tudo bem? Hoje eu vim mostrar dois batons lindos que eu vi quando estava passando pelo quiosque da Yes Cosmetics no shopping e me apaixonei:
 
 Marrom Café e Chocolate <3
 
