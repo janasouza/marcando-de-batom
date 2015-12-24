@@ -24,6 +24,8 @@ descricao: O cabelo é a beleza da mulher. Ter um cabelo bonito e hidratado vai 
 					</a>
 				</h2>
 
+				<img src="<%= post.imagem %>" class="post-item-img" itemprop="image" alt="<%= post.alt %>">
+
 				<span class="post-item-dados">
 					<span itemprop="author">Por: Jana Souza</span> |
 					<span itemprop="datePublished"><%= @moment(post.date).format('DD /MM/ YYYY') %></span> |
