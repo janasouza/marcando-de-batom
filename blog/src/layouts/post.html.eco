@@ -17,14 +17,14 @@
   <meta property="og:title" content="<%= @document.title %>">
   <meta property="og:description" content="<%= @document.descricao %>">
   <meta property="og:url" content="http://marcandodebatom.com/">
-  <meta property="og:image" content="http://marcandodebatom.com/images/capa-marcando-de-batom.jpg">
+  <meta property="og:image" content="http://marcandodebatom.com/<%= @document.imagem %>">
 
   <!-- Twitter cards -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="<%= @document.title %>">
   <meta name="twitter:description" content="<%= @document.descricao %>">
   <meta name="twitter:url" content="http://marcandodebatom.com/">
-  <meta name="twitter:image" content="http://marcandodebatom.com/images/capa-marcando-de-batom.jpg">
+  <meta name="twitter:image" content="http://marcandodebatom.com/<%= @document.imagem %>">
 
   <!-- canonical link for twitter share -->
   <link rel="canonical" href="http://marcandodebatom.com<%= @document.url %>">
