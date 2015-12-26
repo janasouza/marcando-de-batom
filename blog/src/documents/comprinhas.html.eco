@@ -24,14 +24,14 @@ descricao: Se você ama fazer compras, estar por dentro das novidades e testar n
 					</a>
 				</h2>
 
-				<img src="<%= post.imagem %>" class="post-item-img" itemprop="image" alt="<%= post.alt %>">
-
 				<span class="post-item-dados">
 					<span itemprop="author">Por: Jana Souza</span> |
 					<span itemprop="datePublished"><%= @moment(post.date).format('DD /MM/ YYYY') %></span> |
 					<span itemprop="articleSection" class="articleCat"><%= post.categoria %></span>
 				</span>
 
+				<img src="<%= post.imagem %>" class="post-item-img" itemprop="image" alt="<%= post.alt %>">
+				
 				<p class="post-item-descricao" itemprop="description">
 					<%= post.descricao %>
 				</p>
