@@ -2,6 +2,8 @@
 layout: post
 post: true
 title: Comprinhas: Quem disse, Berenice?
+imagem: images/comprinhas-quem-disse-berenice/capa.jpg
+alt: Marcando de Batom
 palavras_chave: comprinhas, quem disse berenice, maquiagem, black week
 descricao: Oi meninas! Tudo bem? Hoje vim mostrar pra vocês umas comprinhas bem legais que eu fiz esse final de semana, algumas novidades e coisas que eu queria testar há algum tempo. Fiquei muito feliz e satisfeita com essas comprinhas e por isso vim compartilhar...
 categoria: comprinhas

@@ -2,6 +2,8 @@
 layout: post
 post: true
 title: Resenha do Kit de Batons Especial de Natal do Pausa Para Feminices
+imagem: images/resenha-kit-batons-especial-natal-pausa-para-feminices/capa.jpg
+alt: Marcando de Batom
 palavras_chave: resenha, kit de natal, batons, pausa para feminices, batom marilyn, batom selena, batom demetria
 descricao: Oi meninas! Animadas para a festas de fim de ano? Hoje eu vim fazer uma resenha de um kit de batons incrível, com tons sofisticados e lindos. Perfeitos para as festas de fim de ano: natal, ano novo, formatura... Todos muito usáveis e de uma qualidade top...
 categoria: maquiagem

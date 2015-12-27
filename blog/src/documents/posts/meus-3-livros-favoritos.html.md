@@ -2,6 +2,8 @@
 layout: post
 post: true
 title: Meus 3 livros favoritos
+imagem: images/meus-3-livros-favoritos/capa.jpg
+alt: Marcando de Batom
 palavras_chave: divergente, não se iluda não, cidades de papel, resenhas, livros, ler
 descricao: Oi gente! Tudo bem? Essa categoria aqui no blog não é de segmento de beleza, mas também é uma das coisas que eu amo fazer no meu tempo livre. Eu amo ler, gosto de entrar de cabeça nas histórias e viver os personagens. Romances, aventuras, me apresente a um bom livro e eu vou devorá-lo em uma semana. Sei que tem muitas meninas que assim como eu adoram um bom livro, gostam de se inspirar nas histórias...
 categoria: livros

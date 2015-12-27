@@ -2,7 +2,9 @@
 layout: post
 post: true
 title: Valorizando o seu olhar em 5 passos
-palavras_chave: exemplo, exemplo
+imagem: images/valorizando-seu-olhar/capa.jpg
+alt: Marcando de Batom
+palavras_chave: valorizar, olhar
 descricao: Oi meninas! Tudo Bem? Hoje eu vim trazer umas dicas valiosas pra valorizar o olhar e tirar aquela carinha de cansada. Sabe aquele dia que a gente acorda com mais sono do que quando foi dormir? Ou andou passando algumas noites estudando, focando no trabalho, ou simplesmente no whatsapp conversando com o boy, e a sua olheira tá gritando?...
 categoria: maquiagem
 date: 2015-12-13
@@ -45,8 +47,5 @@ E como todo mundo tem falado dela, e suas técnicas de contorno e iluminação t
 
 ![Kim Kardashian](../images/valorizando-seu-olhar/Kim.jpg)
 
-Reunindo todos essas dicas, tenho certeza que vão conseguir disfarçar o cansaço e se sentirem melhor para começar o dia. Vejam o resultado:
-
-![Jana Souza](../images/valorizando-seu-olhar/jana-souza-olhar.jpg)
-
+Reunindo todos essas dicas, tenho certeza que vão conseguir disfarçar o cansaço e se sentirem melhor para começar o dia.
 E vocês? Tem algum truque que usam no dia a dia pra pra dar aquela valorizada? Não deixem de me contar aqui nos comentários.

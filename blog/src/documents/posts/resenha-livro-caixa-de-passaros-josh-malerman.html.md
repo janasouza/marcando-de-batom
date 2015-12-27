@@ -2,6 +2,8 @@
 layout: post
 post: true
 title: Resenha do livro Caixa de Pássaros de Josh Malerman
+imagem: images/resenha-livro-caixa-de-passaros-josh-malerman/capa.jpg
+alt: Marcando de Batom
 palavras_chave: resenha, livro, caixa de pássaros
 descricao: Oi gente, tudo bem? Hoje eu vou fazer uma resenha do último livro que eu li, Caixa de Pássaros de Josh Malerman. É um livro de suspense, quase terror. Eu nunca tinha lido um livro nesse estilo e estou realmente assustada com as sensações que um livro de terror pode causar, é incrível...
 categoria: livros
@@ -15,7 +17,7 @@ Oi gente, tudo bem? Hoje eu vou fazer uma resenha do último livro que eu li, Ca
 Eu odeio ler qualquer resenha que contenha spoiler, porque pra mim perde toda a graça de ler o livro, então podem ficar tranquilos que não vai ter, ok? Espero que gostem.<br>
 Essa é a primeira resenha que faço na vida, então qualquer coisa, relevem, tá? rs
 
-![Livro Caixa de  Pássaros](../images/caixa-de-passaros.jpg)
+![Livro Caixa de  Pássaros](../images/resenha-livro-caixa-de-passaros-josh-malerman/caixa-de-passaros.jpg)
 
 **Sinopse**: Romance de estreia de Josh Malerman, Caixa de pássaros é um thriller psicológico tenso e aterrorizante, que explora a essência do medo. Uma história que vai deixar o leitor completamente sem fôlego mesmo depois de terminar de ler. Basta uma olhadela para desencadear um impulso violento e incontrolável que acabará em suicídio. Ninguém é imune e ninguém sabe o que provoca essa reação nas pessoas. Cinco anos depois do surto ter começado, restaram poucos sobreviventes, entre eles Malorie e dois filhos pequenos. Ela sonha em fugir para um local onde a família possa ficar em segurança, mas a viagem que tem pela frente é assustadora: uma decisão errada e eles morrerão.
 
