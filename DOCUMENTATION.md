@@ -144,6 +144,8 @@ Conteúdo (cabeçalho + conteúdo):
 	layout: post
 	post: true
 	title: Titulo do post
+	imagem: images/exemplo/capa.jpg
+	alt: Marcando de Batom
 	palavras_chave: exemplo, exemplo
 	descricao: exemplo de descrição
 	categoria: maquiagem
