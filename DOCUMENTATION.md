@@ -4,6 +4,7 @@
 - [Como utilizar o blog localmente](#como-utilizar-o-blog-localmente)
 - [Arquivos e pastas](#arquivos-e-pastas)
 - [Inserindo um novo post](#inserindo-um-novo-post)
+- [Como inserir emojis fofinhos](#como-inserir-emojis-fofinhos)
 - [Fazendo deploy](#fazendo-deploy)
 
 ## Introdução
@@ -153,6 +154,53 @@ Conteúdo (cabeçalho + conteúdo):
 	---
 
 	# Exemplo de conteúdo escrito em markdown.
+
+## Como inserir emojis fofinhos
+
+Simples! Basta inserir um `span` contendo a `class` relativa ao emoji desejado:
+
+| Emoji       | Code         |
+| ------------|------------- |
+| :heart:     | `<span class="heart"></span>`|
+| :blush: | `<span class="blush"></span>`|
+| :books: | `<span class="books"></span>`|
+| :camera: | `<span class="camera"></span>`|
+| :chocolate_bar: | `<span class="chocolate_bar"></span>`|
+| :clap: | `<span class="clap"></span>`|
+| :crown: | `<span class="crown"></span>`|
+| :gift: | `<span class="gift"></span>`|
+| :heart_eyes: | `<span class="heart_eyes"></span>`|
+| :iphone: | `<span class="iphone"></span>`|
+| :joy: | `<span class="joy"></span>`|
+| :kiss: | `<span class="kiss"></span>`|
+| :lipstick: | `<span class="lipstick"></span>`|
+| :money_with_wings: | `<span class="money_with_wings"></span>`|
+| :nail_care: | `<span class="nail_care"></span>`|
+| :notes: | `<span class="notes"></span>`|
+| :ok_hand: | `<span class="ok_hand"></span>`|
+| :pencil: | `<span class="pencil"></span>`|
+| :pray: | `<span class="pray"></span>`|
+| :punch: | `<span class="punch"></span>`|
+| :rage: | `<span class="rage"></span>`|
+| :relaxed: | `<span class="relaxed"></span>`|
+| :ribbon: | `<span class="ribbon"></span>`|
+| :scream: | `<span class="scream"></span>`|
+| :shit: | `<span class="shit"></span>`|
+| :snowflake: | `<span class="snowflake"></span>`|
+| :sparkles: | `<span class="sparkles"></span>`|
+| :speak_no_evil: | `<span class="speak_no_evil"></span>`|
+| :star: | `<span class="star"></span>`|
+| :star2: | `<span class="star2"></span>`|
+| :stuck_out_tongue_closed_eyes: | `<span class="stuck_out_tongue_closed_eyes"></span>`|
+| :sunny: | `<span class="sunny"></span>`|
+| :thumbsdown: | `<span class="thumbsdown"></span>`|
+| :thumbsup: | `<span class="thumbsup"></span>`|
+| :two_hearts: | `<span class="two_hearts"></span>`|
+| :umbrella: | `<span class="umbrella"></span>`|
+| :unamused: | `<span class="unamused"></span>`|
+| :v: | `<span class="v"></span>`|
+| :yum: | `<span class="yum"></span>`|
+
 
 ## Fazendo deploy
 

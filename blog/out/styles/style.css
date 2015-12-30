@@ -693,3 +693,237 @@ body {
   bottom: 40px;
   right: 10px;
 }
+.heart {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/heart.png");
+}
+.blush {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/blush.png");
+}
+.books {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/books.png");
+}
+.camera {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/camera.png");
+}
+.chocolate_bar {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/chocolate_bar.png");
+}
+.clap {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/clap.png");
+}
+.crown {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/crown.png");
+}
+.gift {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/gift.png");
+}
+.heart_eyes {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/heart_eyes.png");
+}
+.iphone {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/iphone.png");
+}
+.joy {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/joy.png");
+}
+.kiss {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/kiss.png");
+}
+.lipstick {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/lipstick.png");
+}
+.money_with_wings {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/money_with_wings.png");
+}
+.nail_care {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/nail_care.png");
+}
+.notes {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/notes.png");
+}
+.ok_hand {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/ok_hand.png");
+}
+.pencil {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/pencil.png");
+}
+.pray {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/pray.png");
+}
+.punch {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/punch.png");
+}
+.rage {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/rage.png");
+}
+.relaxed {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/relaxed.png");
+}
+.ribbon {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/ribbon.png");
+}
+.scream {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/scream.png");
+}
+.shit {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/shit.png");
+}
+.snowflake {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/snowflake.png");
+}
+.sparkles {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/sparkles.png");
+}
+.speak_no_evil {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/speak_no_evil.png");
+}
+.star {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/star.png");
+}
+.star2 {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/star2.png");
+}
+.stuck_out_tongue_closed_eyes {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/stuck_out_tongue_closed_eyes.png");
+}
+.sunny {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/sunny.png");
+}
+.thumbsdown {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/thumbsdown.png");
+}
+.thumbsup {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/thumbsup.png");
+}
+.two_hearts {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/two_hearts.png");
+}
+.umbrella {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/umbrella.png");
+}
+.unamused {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/unamused.png");
+}
+.v {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/v.png");
+}
+.yum {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background-image: url("../images/emojis/yum.png");
+}
